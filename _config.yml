@@ -1,7 +1,7 @@
 title: DAO · 道
 description: 以天道、人道、神鬼道、科学与精神力为线索，探索人们理解世界与自身的不同路径。
 url: https://luskyle.github.io
-baseurl: /the-world
+baseurl: /DAO
 markdown: kramdown
 permalink: pretty
 exclude:
