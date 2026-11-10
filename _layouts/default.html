@@ -34,14 +34,14 @@
     {% endif %}
     <a class="skip-link" href="#main">跳到正文</a>
     <header class="site-header" id="top">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="认识这个世界，返回首页">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="DAO · 道，返回首页">
         <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
-        <span class="brand-name">认识这个世界</span>
+        <span class="brand-name">DAO · 道</span>
       </a>
       <nav class="site-nav" aria-label="主导航">
         <a href="{{ '/' | relative_url }}#topics">探索主题</a>
         <a href="{{ '/' | relative_url }}#latest">最新文章</a>
-        <a href="{{ '/' | relative_url }}#about">关于本站</a>
+        <a href="{{ '/' | relative_url }}#about">关于 DAO</a>
       </nav>
       <a class="header-cta" href="{{ '/' | relative_url }}#latest">开始阅读 <span aria-hidden="true">↗</span></a>
       <button class="theme-toggle" type="button" aria-label="切换到浅色主题" title="切换到浅色主题" aria-pressed="true">
@@ -51,11 +51,11 @@
     </header>
     {{ content }}
     <footer class="site-footer">
-      <a class="brand footer-brand" href="{{ '/' | relative_url }}">
+      <a class="brand footer-brand" href="{{ '/' | relative_url }}" aria-label="DAO · 道，返回首页">
         <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
-        <span class="brand-name">认识这个世界</span>
+        <span class="brand-name">DAO · 道</span>
       </a>
-      <p>从好奇开始，慢慢理解我们共同生活的世界。</p>
+      <p>循不同路径，追问世界与自身。</p>
       <a class="back-top" href="#top">回到顶部 ↑</a>
     </footer>
     {% unless page.layout == "article" %}

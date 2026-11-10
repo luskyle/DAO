@@ -1,5 +1,5 @@
-title: 认识这个世界
-description: 从天文、环境、生命、文化、科技与未来出发，用通俗叙事认识我们身处的世界。
+title: DAO · 道
+description: 以天道、人道、神鬼道、科学与精神力为线索，探索人们理解世界与自身的不同路径。
 url: https://luskyle.github.io
 baseurl: /the-world
 markdown: kramdown
@@ -12,39 +12,33 @@ exclude:
   - Gemfile.lock
 
 topics:
-  - id: astronomy
-    name: 天文
-    english: ASTRONOMY
-    description: 从月亮、行星到宇宙，读懂我们头顶的星空。
-    icon: ✳
-    available: true
-  - id: environment
-    name: 环境
-    english: ENVIRONMENT
-    description: 看见气候、生态与人类生活之间的联系。
+  - id: tian-dao
+    name: 天道
+    english: THE WAY OF HEAVEN
+    description: 从天地、自然与万物运行，追问世界如何变化。
+    icon: ☯
+    available: false
+  - id: ren-dao
+    name: 人道
+    english: THE HUMAN WAY
+    description: 从生命、关系与社会，理解人的处境与选择。
+    icon: ◉
+    available: false
+  - id: shen-gui-dao
+    name: 神鬼道
+    english: MYTH & THE UNKNOWN
+    description: 认识神话、宗教、民俗与人类对未知的想象。
     icon: ◌
     available: false
-  - id: life
-    name: 生命
-    english: LIFE
-    description: 认识生命的起源、多样性与演化。
+  - id: science
+    name: 科学
+    english: SCIENCE & EVIDENCE
+    description: 以观察、证据与实验检验我们对世界的认识。
     icon: ⌁
     available: false
-  - id: culture
-    name: 文化
-    english: CULTURE
-    description: 从历史、语言与日常生活理解人类。
-    icon: ◈
-    available: false
-  - id: technology
-    name: 科技
-    english: TECHNOLOGY
-    description: 探索技术如何改变我们的生活。
-    icon: ⌘
-    available: false
-  - id: future
-    name: 未来
-    english: FUTURE
-    description: 思考正在到来的变化与可能性。
-    icon: ↗
+  - id: jingshen-li
+    name: 精神力
+    english: MIND & EXPERIENCE
+    description: 探索意识、专注、主观体验与内在生活。
+    icon: ✳
     available: false

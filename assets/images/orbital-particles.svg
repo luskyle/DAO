@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="title description">
-  <title id="title">认识这个世界：轨道粒子</title>
-  <desc id="description">三颗蓝绿色粒子沿椭圆轨道环绕发光的行星，象征从不同角度观察同一个世界。</desc>
+  <title id="title">DAO · 道：轨道粒子</title>
+  <desc id="description">三颗蓝绿色粒子沿椭圆轨道环绕发光的核心，象征万物之间的联系。</desc>
   <defs>
     <radialGradient id="space" cx="50%" cy="48%" r="72%">
       <stop offset="0" stop-color="#142842"/>
@@ -50,8 +50,8 @@
   <g font-family="sans-serif">
     <text x="94" y="153" fill="#82a3c3" font-size="11" letter-spacing="3">OBSERVE</text>
     <path d="M94 171h36" stroke="#54ccbd" stroke-width="2"/>
-    <text x="94" y="205" fill="#e6f1fb" font-size="29" font-weight="600">世界很大，</text>
-    <text x="94" y="247" fill="#80b4ff" font-size="29" font-weight="600">从好奇开始。</text>
-    <text x="94" y="281" fill="#9db1c7" font-size="12">A FIELD GUIDE TO OUR WORLD</text>
+    <text x="94" y="205" fill="#e6f1fb" font-size="29" font-weight="600">道在天地间，</text>
+    <text x="94" y="247" fill="#80b4ff" font-size="29" font-weight="600">也在日常中。</text>
+    <text x="94" y="281" fill="#9db1c7" font-size="12">DAO · A WAY OF SEEING</text>
   </g>
 </svg>
